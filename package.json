@@ -2,7 +2,7 @@
   "name": "digital-card",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://duqux.github.io/digitalbusinesscard",
+  "homepage":"https://duqux.github.io/digitalcard",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
