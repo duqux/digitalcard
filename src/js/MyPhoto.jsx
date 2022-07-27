@@ -1,9 +1,10 @@
 import React from "react"
+import image from '/src/assets/photo.jfif'
 
 export default function MyPhoto(){
     return (
         <div>
-            <img src="src/assets/photo.jfif" className="photo-image"/>        
+            <img src={image} className="photo-image"/>        
         </div>
     )
 }
