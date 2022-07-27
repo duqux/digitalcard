@@ -5,7 +5,7 @@ export default function Footer(){
         <div>
             <a href="https://www.twitter.com" target="_blank">
             <button className="social-icon">
-            <img src="assets/Twitter Icon.png"/>        
+            <img src="./src/assets/Twitter Icon.png"/>        
                 </button>
             </a>
             <a href="https://www.facebook.com" target="_blank">
