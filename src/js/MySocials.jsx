@@ -1,6 +1,6 @@
 import React from "react"
 import emailimg from '/src/assets/Icon.png'
-import linkedinimg from 'src/assets/Vector.png'
+import linkedinimg from '/src/assets/Vector.png'
 
 export default function MySocials(){
     return (
